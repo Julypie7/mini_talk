@@ -1,4 +1,4 @@
-# Cursus 42 - Mini talk
+# Cursus 42 - Mini_talk
 This project is a simple client-server communication system implemented using signals in C. The client sends a message to the server, and the server receives and displays the message character by character.
 ## Mandatory part
 
