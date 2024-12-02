@@ -17,6 +17,11 @@ Once the string has been received, the server must print it.
 Bonus list:
 • The server acknowledges every message received by sending back a signal to the client.
 • Unicode characters support!
+# Installation
+1. git clone of repo
+2. make
+3. ./server
+4. ./client <name from the server> <"any message you want to write in strings">
 
 <img width="900" alt="Screenshot 2024-12-01 at 17 35 30" src="https://github.com/user-attachments/assets/49a8f749-1fd5-4530-bc09-244ee47722bc">
 
